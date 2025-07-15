@@ -40,7 +40,7 @@
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://lucaslcss.github.io/portfolio/" target="_blank">
-    <img src="https://lucaslcss.github.io/portfolio/" />
+    <img src="https://img.shields.io/badge/-Portfólio-%2300dfc4?style=for-the-badge&logo=githubpages&logoColor=black"/>
   </a>
 </div>
 
