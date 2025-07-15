@@ -39,8 +39,8 @@
   <a href="https://www.linkedin.com/in/joão-lucas-82190a305/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://portifolio-green-pi.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portf%C3%B3lio-Visite%20meu%20site-green?style=for-the-badge&logo=vercel" />
+  <a href="https://lucaslcss.github.io/portfolio/" target="_blank">
+    <img src="https://lucaslcss.github.io/portfolio/" />
   </a>
 </div>
 
